@@ -1,4 +1,5 @@
 # Genie's Wishes
+This project was created for the Spring 2024 [ICSpark Program](https://icspark.github.io/)
 
 ## Objective
 
