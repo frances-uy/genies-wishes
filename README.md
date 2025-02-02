@@ -1,5 +1,6 @@
 # Genie's Wishes
-This project was created for the Spring 2024 [ICSpark Program](https://icspark.github.io/)
+This project was created for the Spring 2024 [ICSpark Program](https://icspark.github.io/) Intro to Web Development Curriculum.
+Follow along as practice for HTML and relative file paths!
 
 ## Objective
 
